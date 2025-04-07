@@ -1,0 +1,14 @@
+/Users/pawel/Desktop/programowanie_zaawansowane_ćwiczenia/zadanie_3/zadanie_3/zadanie_3/bin/Debug/net9.0/zadanie_3
+/Users/pawel/Desktop/programowanie_zaawansowane_ćwiczenia/zadanie_3/zadanie_3/zadanie_3/bin/Debug/net9.0/zadanie_3.deps.json
+/Users/pawel/Desktop/programowanie_zaawansowane_ćwiczenia/zadanie_3/zadanie_3/zadanie_3/bin/Debug/net9.0/zadanie_3.runtimeconfig.json
+/Users/pawel/Desktop/programowanie_zaawansowane_ćwiczenia/zadanie_3/zadanie_3/zadanie_3/bin/Debug/net9.0/zadanie_3.dll
+/Users/pawel/Desktop/programowanie_zaawansowane_ćwiczenia/zadanie_3/zadanie_3/zadanie_3/bin/Debug/net9.0/zadanie_3.pdb
+/Users/pawel/Desktop/programowanie_zaawansowane_ćwiczenia/zadanie_3/zadanie_3/zadanie_3/obj/Debug/net9.0/zadanie_3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pawel/Desktop/programowanie_zaawansowane_ćwiczenia/zadanie_3/zadanie_3/zadanie_3/obj/Debug/net9.0/zadanie_3.AssemblyInfoInputs.cache
+/Users/pawel/Desktop/programowanie_zaawansowane_ćwiczenia/zadanie_3/zadanie_3/zadanie_3/obj/Debug/net9.0/zadanie_3.AssemblyInfo.cs
+/Users/pawel/Desktop/programowanie_zaawansowane_ćwiczenia/zadanie_3/zadanie_3/zadanie_3/obj/Debug/net9.0/zadanie_3.csproj.CoreCompileInputs.cache
+/Users/pawel/Desktop/programowanie_zaawansowane_ćwiczenia/zadanie_3/zadanie_3/zadanie_3/obj/Debug/net9.0/zadanie_3.dll
+/Users/pawel/Desktop/programowanie_zaawansowane_ćwiczenia/zadanie_3/zadanie_3/zadanie_3/obj/Debug/net9.0/refint/zadanie_3.dll
+/Users/pawel/Desktop/programowanie_zaawansowane_ćwiczenia/zadanie_3/zadanie_3/zadanie_3/obj/Debug/net9.0/zadanie_3.pdb
+/Users/pawel/Desktop/programowanie_zaawansowane_ćwiczenia/zadanie_3/zadanie_3/zadanie_3/obj/Debug/net9.0/zadanie_3.genruntimeconfig.cache
+/Users/pawel/Desktop/programowanie_zaawansowane_ćwiczenia/zadanie_3/zadanie_3/zadanie_3/obj/Debug/net9.0/ref/zadanie_3.dll
